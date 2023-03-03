@@ -27,6 +27,8 @@ module.exports = Waline({
     '*.slqwq.cn',
     'kotodama.yunyoujun.cn',
     '*.hesiy.cn',
+    '*.hajeekn.eu.org',
+    'hajeekn.eu.org',
     'koto-api.pages.dev'
   ],
   mailSubject: 'Dear {{parent.nick}}，您在 {{site.name}} 上发表的信息,收到了来自 热心网友: {{self.nick}} 的回复,请速去查看',
